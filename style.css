@@ -9,5 +9,6 @@ img{
 }
 
 table{
-  border: 1px white double;
+  border: 1px white;
+  border-collapse: collapse;
 }
