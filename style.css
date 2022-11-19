@@ -1,17 +1,41 @@
 body{
-  color: white;
-  background: #3C3744;
+  color:#F9F7F3;
+  background:#32213A;
+}
+
+header{
+  text-align: center;
+  text-decoration: wavy;
+  color:#8D91C7;
+  font-style: oblique;
 }
 
 img{
-  width: 200px;
-  height: 300px;
+  width: 500px;
+  height: 400px;
+  margin: 3em;
 }
 
-table{
-  border: 1px white;
+table, tr, td{
+  border-color: #F9F7F3;
+  border: 1em solid;
+  margin: 3em;
+  margin-left: 12em;
+  padding: 3em;
+  border-collapse: collapse;
+  text-align: center;
+  padding: 2em;
 }
 
-#main{
-float:left;
+p{
+  text-align: center;
+}
+
+.main{
+  float:left;
+  text-align: center;
+  width: 50%;
+  background-color: #688B58;
+  border-radius: 15em;
+  color:#143109
 }
